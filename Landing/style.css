@@ -1,0 +1,31 @@
+
+body {
+    padding: 0px !important;
+    margin: 0px !important;
+    font-family: inherit;
+}
+.menu-superior{
+    background: #111827;
+    width: 100%;
+
+
+}
+a {
+    color: white;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 600;
+    text-decoration: inherit; 
+    font-family: sans-serif;
+    padding-right: 25px;
+}
+nav{
+    padding-top: 1.5rem;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 1.5rem; 
+}
+
+.divderecho{
+    padding-left: 50%;
+}
