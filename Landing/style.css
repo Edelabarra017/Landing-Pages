@@ -177,4 +177,93 @@ img{
     line-height: 1.75rem;
     color: gray;   
 }
-
+.cuentanos{
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+#toggleMenu{
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+    .navnormal{
+        display: none;
+    }
+    .jumbotron{
+        width: 100%;
+        padding-left: 32px;
+        padding-right: 32px; 
+    }
+    
+    .imagenhabitacion{
+        width: 100%;
+        overflow:hidden;
+    }
+    .cajaprincipaljumbotron{
+        zoom: 0.6;
+    
+    }
+    .cajamadre{
+        height: auto;
+        display: block;
+    
+    }
+    .inputcorreo {
+        width: 68%;
+    }
+    .habitacionmitad{
+        height: auto;
+        width: 100%;
+    }
+    .titulo{
+        font-size: 3rem;
+    }
+    .cuentanos{
+        font-size: 1.5rem !important;
+    }
+    .descuento{
+        width: 100%;
+        text-align: center;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+      }
+      
+      header {
+        background-color: #333;
+        padding: 10px;
+        text-align: center;
+      }
+      
+      button {
+        background-color: #333;
+        color: white;
+        border: none;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      
+      #menu {
+        display: none;
+      }
+      
+      #menu ul {
+        list-style: none;
+        padding: 0;
+      }
+      
+      #menu li {
+        padding: 10px;
+        text-align: center;
+      }
+      
+      #menu a {
+        text-decoration: none;
+        font-weight: bold;
+      }
+      #toggleMenu{
+        display: block;
+        background: #111827;
+        font-size: 2rem;
+    }
+  }
