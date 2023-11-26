@@ -48,6 +48,9 @@ nav{
 
 .jumbotron{
     width: 50%;
+    padding-left: 32px;
+    padding-right: 32px;
+
     
 }
 .cajamadre{
@@ -56,8 +59,8 @@ nav{
     height: 100vh;
     background: #111827;
     padding-bottom: 3.5rem;
-    margin-left: auto;
-    margin-right: auto;
+
+
 }
 .imagenhabitacion{
     width: 50%;
@@ -85,13 +88,24 @@ nav{
     border-radius: 50px 50px 50px 50px;
     width: 50%;
     padding: 0.30rem;
-
+    align-self: self-start;
 }
-
 
 .cajaprincipaljumbotron{
     width: 100%;
 
 }
 
-.
+.cajamadresub{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 100%;
+}
+
+
+
+
+
+
+
