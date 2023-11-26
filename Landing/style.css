@@ -69,7 +69,6 @@ nav{
 
 .blog{
     width: 100%;
-    height: 100vh;
     background-color: white;
 }
 
@@ -151,4 +150,31 @@ img{
     max-width: none !important;
 }
 
+.guitarras3{
+    text-align: center;
+    color: black;
+    padding-top: 6rem;
+
+}
+
+.nuevas{
+    font-weight: 600;
+    letter-spacing: .05em;
+    
+}
+
+.guitarrasllegadas{
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    letter-spacing: -.025em;
+    font-weight: 800;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.trovador{
+    font-size: 1.25rem ;
+    line-height: 1.75rem;
+    color: gray;   
+}
 
