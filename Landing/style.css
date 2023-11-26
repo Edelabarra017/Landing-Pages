@@ -64,7 +64,7 @@ nav{
 }
 .imagenhabitacion{
     width: 50%;
-
+    overflow:hidden;
     }
 
 .blog{
@@ -86,13 +86,16 @@ nav{
     color: white;
     background-color: black;
     border-radius: 50px 50px 50px 50px;
-    width: 50%;
+    width: 70%;
     padding: 0.30rem;
     align-self: self-start;
+    margin-top: 3rem;
+    
 }
 
 .cajaprincipaljumbotron{
     width: 100%;
+    display: flex;
 
 }
 
@@ -103,9 +106,49 @@ nav{
     height: 100%;
 }
 
+html{
+    font-family: sans-serif;
+    color:white;
 
+}
 
+.titulo{
+    font-size: 3.75rem;
+    letter-spacing: -.025em;
+    font-weight: 800;
+    line-height: 1;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
 
+.span20{
+    font-weight: 600;
+    font-size: 0.75rem;
+    padding-left: 1.5rem;
+}
 
+svg{
+    display: inline !important;
+}
+
+.conoceguitarra{
+    padding-left: 1.5rem;
+}
+
+.correo{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.inputcorreo{
+    border-radius: 9px; 
+    height: 3rem;
+    margin-right: 0.5rem;
+    width: 85%;
+    padding-left: 1.4rem;
+
+}
+img{
+    max-width: none !important;
+}
 
 
