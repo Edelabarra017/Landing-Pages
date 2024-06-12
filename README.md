@@ -1,28 +1,21 @@
 ![Logo del Proyecto](https://github.com/Edelabarra017/Landing-Pages/assets/146544229/3d19ac3b-5738-4750-8020-bfed56236205)
 
 
-Este dashboard es un proyecto práctico del BootCamp UDD, Desarrollado con HTML5, Chart.js, CSS3 y JavaScript, proporciona una experiencia 
-interactiva para visualizar datos en tiempo real de criptomonedas
+Este Landing Page es un proyecto práctico del BootCamp UDD, Desarrollando una interfaz utilizando HTML y CSS, en toda su aplicación, Sección Header, Jumbotron, footer,Responsive Web Design
 
 
 # Instalación
 
-1. Clona el repositorio: `git clone https://github.com/Edelabarra017/Dashboard.git
+1. Clona el repositorio: `git clone https://github.com/Edelabarra017/Landing-Pages.git
 2. Visualízalo en Visual Studio Code en la parte superior (open file)
 
 
 # Uso
 
-- Su propósito es visualizar en tiempo real una API de criptomonedas, sirviendo como un dashboard educativo
- que brinda la oportunidad de aprender cómo construirlo.
+- Su propósito es Educativo para el bootcamp, es la simulacion de una landing page, de una pagina para la venta de guitarras.
 
-# Api Utilizada para recopilación de datos 
 
-|            Api              |            Sitio            |                      Url                               |
-|-----------------------------|---------------------------- |--------------------------------------------------------|
-| Información Cryptomonedas   | https://docs.coincap.io/    | https://currency-api.pages.dev/v1/currencies/btc.json  |
+ # URL 
 
-# URL 
-- https://edelabarra017.github.io/Dashboard/
 
 
