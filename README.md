@@ -1,4 +1,4 @@
-![Logo del Proyecto](file:///C:/Users/Elizabeth/OneDrive/Escritorio/Landing%20page.jpg)
+![Logo del Proyecto](https://github.com/Edelabarra017/Landing-Pages/assets/146544229/3d19ac3b-5738-4750-8020-bfed56236205)
 
 
 Este dashboard es un proyecto práctico del BootCamp UDD, Desarrollado con HTML5, Chart.js, CSS3 y JavaScript, proporciona una experiencia 
